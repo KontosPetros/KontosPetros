@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KontosPetros
 - 👀 I’m interested in java development and python coding.
-- 🌱 I’m currently studing computer science in UOI.
+- 🌱 I’m currently studying computer science in UOI.
 - 📫 How to reach me : petros.kon37@gmail.com
 
 <!---
