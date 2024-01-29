@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KontosPetros
-- 👀 I’m interested in Java development.
-- 🌱 Studying computer science in UOI.
-- Currently working @european_dynamics as Java Back-End Developer
+- 👋 Hi, I’m @KontosPetros.
+- 👀 I love coding in Java.
+- :mortar_board: Studying computer science in UOI.
+- :office: Currently working @european_dynamics as Java Back-End Developer.
 - 📫 How to reach me : petros.kon37@gmail.com
 
 <!---
